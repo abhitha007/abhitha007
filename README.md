@@ -1,82 +1,61 @@
-# Hi, I'm Abhishek 👋  
-🚀 **Passionate Web Developer** | 💻 Creating Interactive Web Apps | 📚 Lifelong Learner  
-
----
-
-## 🌟 Quick Intro  
-💡 **Web Developer** focused on crafting **clean UI & responsive websites**  
-🎯 Love solving problems & learning new technologies  
-🌱 Currently exploring **Angular & Bootstrap**  
-📂 My work → [Repositories](https://github.com/abhitha007)  
 <!-- Banner -->
-<div class="banner">
-  <img src="assets/banner.gif" alt="Abhishek Banner" class="banner-img">
-</div>
+<p align="center">
+  <img src="assets/banner.png" alt="Hi, I'm Abhishek | Web Developer 🚀" />
+</p>
 
-<!-- Contact Section -->
-<div class="contact" style="text-align: center; margin-top: 20px;">
-  <a href="mailto:abhi958041@gmail.com" 
-     style="font-size: 20px; color: #333; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
-    <span style="font-size: 24px;">📧</span>
-    <strong>Reach me:</strong> abhi958041@gmail.com
-  </a>
-</div>
-
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h3 align="center">💻 Web Developer | 🚀 Tech Enthusiast | 🌐 Lifelong Learner</h3>
 
 ---
 
-## 🔗 Connect with Me  
+### 🚀 About Me
+- 🔭 I’m currently working on **Full-stack Web Development Projects**  
+- 🌱 I’m learning **React.js, Node.js & Cloud Deployment**  
+- 💡 Passionate about creating **responsive websites** and **modern UI/UX**  
+- 🎯 Goal: To become a **Software Engineer** in top tech companies  
+
+---
+
+### 🛠️ Tech Stack
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-singh-680633282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/abhitha007"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://x.com/abhi958041"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/whois_abhi007/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ---
 
-## 🛠️ Tech Toolbox  
+### 🌐 Portfolio
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Performance  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhitha007&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhitha007&theme=radical" height="160px"/>
-</p>
-
----
-
-## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhitha007&theme=onestar&margin-w=10&margin-h=10&no-frame=true&row=1" />
-</p>
-
----
-
-## 🌱 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhitha007&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## ✨ Fun Stuff  
-- 🔥 Love experimenting with **UI/UX**  
-- 🎮 Gaming + Coding = Best Combo  
-- ✈️ Dream: Build something impactful for **Education Sector**  
-
----
-
-## ☕ Support My Work  
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourid">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7CA88?logo=buy-me-a-coffee&logoColor=black&style=for-the-badge" />
+  <a href="https://abhitha007.github.io/Portfolio" target="_blank">
+    🔗 <b>Visit My Portfolio Website</b>
   </a>
 </p>
 
 ---
-⭐️ From [abhitha007](https://github.com/abhitha007)
+
+### 📧 Reach Me
+<p align="center">
+  <a href="mailto:abhi958041@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhi958041%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+### 🌍 Connect with Me
+<p align="center">
+  <a href="https://github.com/abhitha007"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abhitha007"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhitha007&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhitha007&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+⭐️ From [Abhishek](https://github.com/abhitha007)
