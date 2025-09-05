@@ -10,7 +10,7 @@
 ## 🌟 About Me  
 - 💡 Web Developer crafting **clean UI & responsive websites**  
 - 🎯 Love solving problems & learning new technologies  
-- 🌱 Currently exploring **Angular & Bootstrap**  
+- 🌱 Currently exploring **Angular & React**  
 - 📂 Check out my work → [Repositories](https://github.com/abhitha007)  
 
 📧 Reach me: **abhi958041@gmail.com**  
