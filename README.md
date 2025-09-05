@@ -1,8 +1,9 @@
 # Hi, I'm Abhishek 👋  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=🚀+Passionate+Web+Developer;💻+Interactive+Web+Apps+Builder;📚+Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
-</div>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Crafting+Scalable+and+Responsive+Websites;Turning+Ideas+into+Interactive+Solutions" alt="Typing SVG" />
+</div>
+
 
 ---
 
