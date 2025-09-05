@@ -49,11 +49,14 @@
 </p>  
 
 ---
-
 ## 🌱 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhitha007&theme=tokyo-night&hide_border=true" />
-</p>  
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=abhitha007&theme=tokyo-night&hide_border=true&area=true" 
+       alt="abhitha007's Contribution Graph" 
+  />
+</p>
+
 
 ---
 
