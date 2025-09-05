@@ -8,7 +8,20 @@
 🎯 Love solving problems & learning new technologies  
 🌱 Currently exploring **Angular & Bootstrap**  
 📂 My work → [Repositories](https://github.com/abhitha007)  
-📧 Reach me: **abhi958041@gmail.com**  
+<!-- Banner -->
+<div class="banner">
+  <img src="assets/banner.gif" alt="Abhishek Banner" class="banner-img">
+</div>
+
+<!-- Contact Section -->
+<div class="contact" style="text-align: center; margin-top: 20px;">
+  <a href="mailto:abhi958041@gmail.com" 
+     style="font-size: 20px; color: #333; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+    <span style="font-size: 24px;">📧</span>
+    <strong>Reach me:</strong> abhi958041@gmail.com
+  </a>
+</div>
+
 
 ---
 
