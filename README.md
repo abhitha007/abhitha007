@@ -1,29 +1,19 @@
+# Hi, I'm Abhishek 👋
+
 <div align="center">
-  <h1>Hi, I'm Abhishek 👋</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Crafting+Scalable+and+Responsive+Websites;Turning+Ideas+into+Interactive+Solutions" alt="Typing SVG" />
 </div>
 
 ---
 
-<div align="center">
-  ## 🌟 About Me
-  <p>💡 Web Developer crafting <b>clean UI & responsive websites</b></p>
-  <p>🎯 Love solving problems & learning new technologies</p>
-  <p>🌱 Currently exploring <b>Angular & React</b></p>
-  <p>📂 Check out my work → <a href="https://github.com/abhitha007">Repositories</a></p>
-  
-  <p>📧 Reach me: <b>abhi958041@gmail.com</b></p>
-  <p>🌐 Portfolio: <a href="https://abhitha007.github.io/Portfolio/">Click Here</a></p>
-</div>
+## 🌟 About Me
+- 💡 Web Developer crafting **clean UI & responsive websites**  
+- 🎯 Love solving problems & learning new technologies  
+- 🌱 Currently exploring **Angular & React**  
+- 📂 Check out my work → [Repositories](https://github.com/abhitha007)  
 
----
-
-<div align="center">
-  ## ✨ Fun Facts
-  <p>🔥 Love experimenting with <b>UI/UX</b></p>
-  <p>🎮 Gaming + Coding = Best Combo</p>
-  <p>✈️ Dream: Build something impactful for <b>Education Sector</b></p>
-</div>
+📧 Reach me: **abhi958041@gmail.com**  
+🌐 Portfolio: [Click Here](https://abhitha007.github.io/Portfolio/)
 
 ---
 
@@ -66,8 +56,11 @@
 
 ---
 
-<p align="center">
-  ⭐️ From <a href="https://github.com/abhitha007">abhitha007</a>
-</p>
-If you want to create an impressive GitHub profile, [this video](https://www.youtube.com/watch?v=DWFs6aqknqw) can provide helpful tips on how to level up your README.
-http://googleusercontent.com/youtube_content/0
+## ✨ Fun Facts
+- 🔥 Love experimenting with **UI/UX**  
+- 🎮 Gaming + Coding = Best Combo  
+- ✈️ Dream: Build something impactful for **Education Sector**
+
+---
+
+⭐️ From [abhitha007](https://github.com/abhitha007)
