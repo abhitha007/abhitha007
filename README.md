@@ -4,16 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Crafting+Scalable+and+Responsive+Websites;Turning+Ideas+into+Interactive+Solutions" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhitha007&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🌟 About Me
-- 💡 Web Developer crafting **clean UI & responsive websites**  
-- 🎯 Love solving problems & learning new technologies  
-- 🌱 Currently exploring **Angular & React**  
-- 📂 Check out my work → [Repositories](https://github.com/abhitha007)  
+- 💡 Web Developer crafting **clean UI & responsive websites** - 🎯 Love solving problems & learning new technologies  
+- 🌱 Currently exploring **DevOps & Advanced React** - 📂 Check out my work → [Repositories](https://github.com/abhitha007)  
 
-📧 Reach me: **abhi958041@gmail.com**  
-🌐 Portfolio: [Click Here](https://abhitha007.github.io/Portfolio/)
+📧 Reach me: **abhi958041@gmail.com** 🌐 Portfolio: [Click Here](https://abhitha007.github.io/Portfolio/)
 
 ---
 
@@ -29,15 +30,17 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap,git,github,vscode,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,bootstrap,git,github,vscode,python,mysql,docker" />
 </p>
 
 ---
 
 ## 📊 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhitha007&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhitha007&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhitha007&show_icons=true&theme=tokyonight" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhitha007&layout=compact&theme=tokyonight" height="165px"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhitha007&theme=tokyonight" height="165px"/>
 </div>
 
 ---
@@ -57,8 +60,7 @@
 ---
 
 ## ✨ Fun Facts
-- 🔥 Love experimenting with **UI/UX**  
-- 🎮 Gaming + Coding = Best Combo  
+- 🔥 Love experimenting with **UI/UX** - 🎮 Gaming + Coding = Best Combo  
 - ✈️ Dream: Build something impactful for **Education Sector**
 
 ---
